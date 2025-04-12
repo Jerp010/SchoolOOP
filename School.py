@@ -50,7 +50,5 @@ def main():
     print("")
     school2.display_results()
 
-
-
 if __name__ == "__main__":
     main()
